@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Виселица\bin\Debug\Виселица.exe.config
+C:\Users\Asus\source\repos\Виселица\bin\Debug\Виселица.exe
+C:\Users\Asus\source\repos\Виселица\bin\Debug\Виселица.pdb
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.Form1.resources
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.Properties.Resources.resources
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.exe
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.pdb
+C:\Users\Asus\source\repos\Виселица\obj\Debug\Виселица.csproj.AssemblyReference.cache
